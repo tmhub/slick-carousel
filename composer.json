@@ -1,0 +1,16 @@
+{
+    "name": "tm/slick-carousel",
+    "type": "magento-module",
+    "homepage": "https://github.com/tmhub/core",
+    "license": "OSL-3.0",
+    "description": "the last carousel you'll ever need for magento",
+    "authors": [
+        {
+            "name": "Template Masters Team",
+            "email": "support@templates-master.com"
+        }
+    ],
+    "require": {
+        "tm/core": "*"
+    }
+}
