@@ -1,0 +1,6 @@
+app/code/community/TM/SlickCarousel/                            app/code/community/TM/SlickCarousel/
+app/etc/modules/TM_SlickCarousel.xml                            app/etc/modules/TM_SlickCarousel.xml
+app/design/frontend/base/default/layout/tm/slickcarousel.xml    app/design/frontend/base/default/layout/tm/slickcarousel.xml
+js/tm/lib/slick/                                                js/tm/lib/slick/
+skin/frontend/base/default/css/tm/slickcarousel.css             skin/frontend/base/default/css/tm/slickcarousel.css
+skin/frontend/base/default/js/tm/slickcarousel/                 skin/frontend/base/default/js/tm/slickcarousel/

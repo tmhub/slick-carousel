@@ -1,0 +1,1 @@
+/* slickcarousel init script */
